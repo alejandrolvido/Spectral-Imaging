@@ -2,5 +2,5 @@
 Long term Six color fluorescence imaging tools
 
 # signal detection
-# bleedthrou detection
+# bleedthrough detection
 # compare fluorescent signals
