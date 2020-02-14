@@ -1,4 +1,4 @@
-%% this is a example of how to use the function Auto_liBox after deciding wichi region of an image to analyse
+%% this is an example of how to use the function Auto_liBox after deciding wich region of an image to analyse
 
 clearvars
 
