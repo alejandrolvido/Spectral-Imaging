@@ -1,3 +1,6 @@
+%% this is a example of how to use the function Auto_liBox after deciding wichi region of an image to analyse
+
+clearvars
 
 % tim interval
 initial_time=1;
