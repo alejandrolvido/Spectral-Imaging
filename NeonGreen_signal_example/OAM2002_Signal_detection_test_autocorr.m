@@ -25,6 +25,6 @@ C_mTFP1='470 mTFP_000';
 type='.tif';
 Channel=C_NG;
 
-[bld1,bld2,bld3,bld4,bld5] = Auto_liBox(initial_time,A1,final_time,base_name1,Channel,type);
+[bld1,bld2,bld3,bld4,bld5] = Auto_ljBox(initial_time,A1,final_time,base_name1,Channel,type);
 
 
